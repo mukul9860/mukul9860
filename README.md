@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me  
-👨‍💻 Full Stack Developer with **3.5+ years** building production-grade web apps, B2B SaaS platforms, and dashboards  
+👨‍💻 Full Stack Developer with **4 years** building production-grade web apps, B2B SaaS platforms, and dashboards  
 🧩 Strong in **Angular, React, Node.js, Python, AWS, and CI/CD pipelines**  
 🚀 Delivered multiple freelance projects with **100% client satisfaction**  
 🌱 Currently learning: **Advanced DevOps & System Design**  
