@@ -44,49 +44,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukulchhanikar&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulchhanikar&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mukulchhanikar&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=mukulchhanikar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧩 Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukulchhanikar&theme=react-dark&hide_border=true" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
